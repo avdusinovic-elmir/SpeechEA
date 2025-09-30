@@ -1,5 +1,5 @@
-# SpeechEA: Evolutionary Algorithm-based Attack on Automatic Speech Recognition Systems
-This repository contains the code for the paper "SpeechEA: Evolutionary Algorithm-based Attack on Automatic Speech Recognition Systems."
+# Speech-EA: Evolutionary Algorithm-based Attack on Automatic Speech Recognition Systems
+This repository contains the code for the paper "Speech-EA: Evolutionary Algorithm-based Attack on Automatic Speech Recognition Systems."
 
 ## Repository Structure
 - original_audio - Contains the 10 command folders and their respective 100 audio samples per command.
