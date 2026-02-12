@@ -1,0 +1,153 @@
+Epoch 0: Leven=1.0000, Best CTC = 44.6530, Percep=3.2539
+Unique transactions: LEFT
+Epoch 1: Leven=1.0000, Best CTC = 43.4547, Percep=3.6172
+Unique transactions: LEFT
+Epoch 2: Leven=1.0000, Best CTC = 41.9977, Percep=3.7849
+Unique transactions: LEFT
+Epoch 3: Leven=1.0000, Best CTC = 44.8912, Percep=3.8677
+Unique transactions: LEFT
+Epoch 4: Leven=1.0000, Best CTC = 40.5206, Percep=3.9791
+Unique transactions: LEFT
+Epoch 5: Leven=1.0000, Best CTC = 42.2824, Percep=4.0320
+Unique transactions: LEFT
+Epoch 6: Leven=1.0000, Best CTC = 43.6031, Percep=4.1491
+Unique transactions: LEFT
+Epoch 7: Leven=1.0000, Best CTC = 44.3983, Percep=4.2453
+Unique transactions: LEFT
+Epoch 8: Leven=1.0000, Best CTC = 41.5215, Percep=4.3599
+Unique transactions: LEFT, THE LEFT
+Epoch 9: Leven=1.0000, Best CTC = 42.4079, Percep=4.4231
+Unique transactions: LEFT, THE LEFT
+Epoch 10: Leven=1.0000, Best CTC = 39.4591, Percep=4.5840
+Unique transactions: LEFT, THE LEFT, THELEFT
+Epoch 11: Leven=1.0000, Best CTC = 41.8982, Percep=4.6227
+Unique transactions: LEFT, THE LEFT, THELEFT
+Epoch 12: Leven=1.0000, Best CTC = 40.3992, Percep=4.6990
+Unique transactions: ELEVTH, LEFT, THE LEFT, THELEFT
+Epoch 13: Leven=1.0000, Best CTC = 41.1780, Percep=4.8891
+Unique transactions: ELEVTH, LEFT, LEVTH, THE LEFT, THELEFT
+Epoch 14: Leven=1.0000, Best CTC = 43.0740, Percep=5.0672
+Unique transactions: ELEVTH, LEFT, LEVTH, THE LEFT
+Epoch 15: Leven=1.0000, Best CTC = 37.4390, Percep=5.0967
+Unique transactions: ELEVTH, LEFT, LEVTH, THE LEFT
+Epoch 16: Leven=1.0000, Best CTC = 39.3191, Percep=5.2412
+Unique transactions: ELEFT, ELEVTH, LEFT, LEVTH, THE LEFT, THELEFT
+Epoch 17: Leven=1.0000, Best CTC = 39.3940, Percep=5.3490
+Unique transactions: ELEFT, ELEVTH, LEFT, LEVTH, THE LEFT, THELEFT
+Epoch 18: Leven=1.0000, Best CTC = 31.0046, Percep=5.4935
+Unique transactions: ELEFT, LEFT, THE LEFT, THELEFT
+Epoch 19: Leven=1.0000, Best CTC = 41.8136, Percep=5.5995
+Unique transactions: ELEFT, LEFT, THE LEFT, THELEFT
+Epoch 20: Leven=1.0000, Best CTC = 40.3852, Percep=5.6785
+Unique transactions: LEFT, LEFTH, THE LEFT, THELEFT
+Epoch 21: Leven=0.8750, Best CTC = 34.8308, Percep=5.7312
+Unique transactions: ELEVENTH, LEFT, LEFTH, THE LEFT, THELEFT
+Epoch 22: Leven=0.8750, Best CTC = 34.8308, Percep=5.7312
+Unique transactions: ELEVENTH, LEFT, LEFTH, LEVTH, THE LEFT, THELEFT
+Epoch 23: Leven=0.8750, Best CTC = 36.5446, Percep=6.0336
+Unique transactions: ELEVENTH, LEFT, LEFTH, LEVTH, THE LEFT, THELEFT
+Epoch 24: Leven=0.8750, Best CTC = 36.5446, Percep=6.0336
+Unique transactions: ELEVENTH, ELEVET, LEFT, LEFTH, LEVTH, THE LEFT, THELEFT
+Epoch 25: Leven=0.8750, Best CTC = 36.5446, Percep=6.0336
+Unique transactions: ELEVEN, ELEVENTH, ELEVET, LEFT, LEFTH, LEVTH, THE LEFT
+Epoch 26: Leven=0.8571, Best CTC = 29.0518, Percep=6.4452
+Unique transactions: ELEVEN, ELEVENTH, ELEVET, LEFT, LEFTH, LEVENTH, LEVTH, THE LEFT
+Epoch 27: Leven=0.8571, Best CTC = 29.0518, Percep=6.4452
+Unique transactions: ELEVEN, ELEVENTH, ELEVET, LEFT, LEFTH, LEVENTH, LEVTH
+Epoch 28: Leven=0.8571, Best CTC = 30.9617, Percep=6.5983
+Unique transactions: ELEFTH, ELEVEN, ELEVENTH, ELEVET, LEFT, LEFTH, LEVENTH, LEVTH
+Epoch 29: Leven=0.8571, Best CTC = 30.9617, Percep=6.5983
+Unique transactions: ELEFTH, ELEVEN, ELEVENH, ELEVENTH, LEFT, LEFTH, LEVEN, LEVENTH, LEVTH
+Epoch 30: Leven=0.8571, Best CTC = 30.9617, Percep=6.5983
+Unique transactions: ELEFTH, ELEVEN, ELEVENH, ELEVENTH, LEFT, LEFTH, LEVEN, LEVENTH, LEVTH
+Epoch 31: Leven=0.8571, Best CTC = 30.9617, Percep=6.5983
+Unique transactions: ELEFT, ELEFTH, ELEVEN, ELEVENH, ELEVENTH, LEFT, LEFTH, LEVEN, LEVENTH, LEVTH
+Epoch 32: Leven=0.8000, Best CTC = 29.3833, Percep=6.6690
+Unique transactions: ELEVEN, ELEVENH, ELEVENT, ELEVENTH, ELEVETH, LEFT, LEFTH, LEVEN, LEVENTH, LEVTH, LOATH
+Epoch 33: Leven=0.6667, Best CTC = 19.2330, Percep=6.6763
+Unique transactions: ELEVEN, ELEVENH, ELEVENT, ELEVENTH, LEFT, LEFTH, LEVE, LEVEN, LEVENTH, LOATH, LOE
+Epoch 34: Leven=0.6667, Best CTC = 19.2879, Percep=6.8425
+Unique transactions: ELEFTH, ELEVEN, ELEVENH, ELEVENT, ELEVENTH, LEFT, LEFTH, LEVEN, LEVENTH, LEVET, LOATH, LOE, LOV
+Epoch 35: Leven=0.6667, Best CTC = 19.2879, Percep=6.8425
+Unique transactions: ELEFTH, ELEVEN, ELEVENH, ELEVENT, ELEVENTH, LEFT, LEVE, LEVEN, LEVENTH, LOATH, LOE, LOV
+Epoch 36: Leven=0.6667, Best CTC = 24.6493, Percep=6.9627
+Unique transactions: ELEVEN, ELEVENH, ELEVENT, ELEVENTH, LEFT, LEVE, LEVEN, LEVENTH, LEVETH, LOATH, LOE, LOV
+Epoch 37: Leven=0.5000, Best CTC = 17.8899, Percep=6.9904
+Unique transactions: ELEVE, ELEVEN, ELEVENH, ELEVENT, ELEVENTH, ELEVTH, ELOVE, LEFT, LEFTH, LEVE, LEVENTH, LO, LOAF, LOATH, LOE, LOV, LOVE
+Epoch 38: Leven=0.5000, Best CTC = 17.8899, Percep=6.9904
+Unique transactions: ELEVEN, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFT, LEVE, LEVENT, LEVENTH, LEVTH, LO, LOAF, LOATH, LOE, LOTE, LOV, LOVE
+Epoch 39: Leven=0.5000, Best CTC = 17.8899, Percep=6.9904
+Unique transactions: BELOVE, ELEVEN, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFT, LEFTH, LEVENT, LEVENTH, LO, LOAF, LOATH, LOE, LOTE, LOV, LOVE
+Epoch 40: Leven=0.5000, Best CTC = 15.0935, Percep=7.1053
+Unique transactions: BELOVE, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFT, LEVE, LEVENT, LEVENTH, LEVT, LO, LOAF, LOATH, LOE, LOFT, LOTE, LOV, LOVE
+Epoch 41: Leven=0.5000, Best CTC = 16.2320, Percep=7.3217
+Unique transactions: BELOVE, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFT, LEV, LEVE, LEVENT, LEVENTH, LO, LOAF, LOAFE, LOATH, LOE, LOFT, LOTE, LOTH, LOV, LOVE
+Epoch 42: Leven=0.5000, Best CTC = 13.6746, Percep=7.3354
+Unique transactions: BELOVE, ELEFT, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFE, LEFT, LEVE, LEVENT, LEVENTH, LO, LOAF, LOAFE, LOATH, LOE, LOF, LOFE, LOFT, LOTE, LOTH, LOV, LOVE
+Epoch 43: Leven=0.5000, Best CTC = 13.6746, Percep=7.3354
+Unique transactions: BELOVE, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEFE, LEFT, LEVE, LEVENT, LEVENTH, LO, LOAF, LOAFE, LOATH, LOE, LOF, LOFE, LOFH, LOFT, LOT, LOTE, LOTH, LOV, LOVE
+Epoch 44: Leven=0.5000, Best CTC = 20.3273, Percep=7.3906
+Unique transactions: BELOVE, ELEVENH, ELEVENT, ELEVENTH, ELOVE, LEF, LEFT, LEVE, LEVENT, LEVENTH, LEVT, LO, LOAF, LOAFE, LOATH, LOE, LOF, LOFE, LOFH, LOFT, LOT, LOTE, LOTH, LOV, LOVE
+Epoch 45: Leven=0.5000, Best CTC = 26.4825, Percep=7.5383
+Unique transactions: BELOVE, ELEVENH, ELOVE, LEFT, LELTH, LEV, LEVE, LEVENT, LEVENTH, LEVT, LO, LOAF, LOAFE, LOATH, LOE, LOF, LOFE, LOFH, LOFT, LOP, LOT, LOTE, LOTH, LOV, LOVE
+Epoch 46: Leven=0.5000, Best CTC = 24.8972, Percep=7.5722
+Unique transactions: BELOVE, ELOVE, LEFT, LELP, LEVE, LEVENT, LO, LOAF, LOAFE, LOATH, LOE, LOF, LOFE, LOFH, LOFT, LOP, LOT, LOTE, LOTH, LOV, LOVE, WELL, WO
+Epoch 47: Leven=0.5000, Best CTC = 20.2332, Percep=7.7062
+Unique transactions: ELO, LEFT, LETH, LEVE, LO, LOAF, LOE, LOF, LOFE, LOFH, LOFT, LOP, LOT, LOTH, LOV, LOVE, WO
+Epoch 48: Leven=0.5000, Best CTC = 21.2511, Percep=7.7596
+Unique transactions: ELO, LE, LEFT, LELP, LEVE, LO, LOAF, LOE, LOF, LOFE, LOFH, LOFT, LOP, LOT, LOTH, LOV, LOVE, WELL, WO
+Epoch 49: Leven=0.5000, Best CTC = 21.7781, Percep=7.9789
+Unique transactions: ELO, LEFT, LENGT, LEVE, LO, LOAF, LOATH, LOE, LOF, LOFE, LOP, LOT, LOV, LOVE, WO
+Epoch 50: Leven=0.5000, Best CTC = 18.4565, Percep=8.0185
+Unique transactions: ELEVE, ELO, LEFE, LEFT, LEFTH, LEV, LO, LOE, LOF, LOP, LOT, LOV, LOVE, WO
+Epoch 51: Leven=0.5000, Best CTC = 27.9991, Percep=8.1865
+Unique transactions: BELO, HELO, LEFT, LEP, LEVE, LO, WO
+Epoch 52: Leven=0.5000, Best CTC = 21.6762, Percep=8.3597
+Unique transactions: HELLO, LEFT, LET, LEV, LEVE, LO, LOVE, WO
+Epoch 53: Leven=0.5000, Best CTC = 23.3643, Percep=8.3616
+Unique transactions: ELO, LE, LEFT, LEP, LO, WELL, WO
+Epoch 54: Leven=0.5000, Best CTC = 23.9138, Percep=8.5470
+Unique transactions: ELEV, LE, LEE, LEV, LO, LOT, WO
+Epoch 55: Leven=0.5000, Best CTC = 22.6007, Percep=8.6846
+Unique transactions: BELOW, HELLO, HLLO, LEFT, LO, LOAT, LOP, WO
+Epoch 56: Leven=0.5000, Best CTC = 25.1216, Percep=8.9560
+Unique transactions: LE, LEFT, LEG, LEMP, LEVE, LO, LOAP, WO
+Epoch 57: Leven=0.5000, Best CTC = 17.1844, Percep=9.0263
+Unique transactions: ELOT, HE LOOKED, LEFT, LEVE, LO, LOAT, LOP, LOT, WO, YO LOW
+Epoch 58: Leven=0.5000, Best CTC = 23.5567, Percep=9.0841
+Unique transactions: ELECE, ELO, HELEFT, HELLO, HLO, LLO, LO, LOAF, LOF
+Epoch 59: Leven=0.5000, Best CTC = 22.5159, Percep=9.3783
+Unique transactions: BELOW, HELLO, LEFE, LENT, LO, LOFED
+Epoch 60: Leven=0.5000, Best CTC = 22.5159, Percep=9.3783
+Unique transactions: BELOV, HELLO, LE, LO, LOP, WOL
+Epoch 61: Leven=0.5000, Best CTC = 28.3387, Percep=9.5461
+Unique transactions: LEFGTH, LEMT, LO, LOAF, LOAFE
+Epoch 62: Leven=0.5000, Best CTC = 20.2863, Percep=9.7185
+Unique transactions: HELLO, HELO, LE, LO, LOA, LOAF, LOF
+Epoch 63: Leven=0.5000, Best CTC = 21.3213, Percep=9.8848
+Unique transactions: BELO, BELOW, ELEVEN, HE LOVE, LEFT, LENT, LEPE, LO, LOKE
+Epoch 64: Leven=0.5000, Best CTC = 22.7496, Percep=10.1777
+Unique transactions: ELOV, LED, LO, LOP, LOPE
+Epoch 65: Leven=0.5000, Best CTC = 18.6877, Percep=10.2198
+Unique transactions: HE LAGED, LEGT, LO, LOAF, LOE, LOGT, LOPE, WO
+Epoch 66: Leven=0.5000, Best CTC = 24.2587, Percep=10.4792
+Unique transactions: BELOW, HELLO, LEVT, LO, LOAT, LOE, WO
+Epoch 67: Leven=0.5000, Best CTC = 22.3303, Percep=10.5398
+Unique transactions: LEMT, LET, LO, LOAF, LOAP, LOAT, LOT, WO
+Epoch 68: Leven=0.5000, Best CTC = 17.6199, Percep=10.7784
+Unique transactions: HE LIKED, LE, LEFT, LET, LLO, LO, LOA, LOV, WO
+Epoch 69: Leven=0.5000, Best CTC = 22.1105, Percep=10.8365
+Unique transactions: HELOW, LAT, LIE, LO, LOAF, LOAT, LOTH, WO
+Epoch 70: Leven=0.5000, Best CTC = 21.6980, Percep=11.0398
+Unique transactions: ELOV, HE LOAPED, HLLO, LIFE, LO, LOAF, LOAK, LOAP, LOPE, WO
+Epoch 71: Leven=0.5000, Best CTC = 22.3533, Percep=11.1597
+Unique transactions: HELLO, LIKE, LIKHE, LLO, LO, WO
+Epoch 72: Leven=0.5000, Best CTC = 19.8446, Percep=11.3255
+Unique transactions: HELO, LO, LOAF, LOAPED, LOOK, LOP, LOV, YOULOK
+Epoch 73: Leven=0.5000, Best CTC = 17.2046, Percep=11.5860
+Unique transactions: ELOW, HELLO, HELLOW, HLO, LIKE, LLO, LO, LOAF, LOK
+Epoch 74: Leven=0.0000, Best CTC = 21.3445, Percep=11.3242
+Unique transactions: HELLO, HELO, LO, LOAFH, LOE, LOW, NO, YOLO
+WORD ACHIEVED AT EPOCH 74
+Perceptual loss before: 11.324198722839355
+Perceptual loss after: 11.324198722839355

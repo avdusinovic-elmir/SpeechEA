@@ -1,0 +1,331 @@
+Epoch 0: Leven=0.7500, Best CTC = 19.8072, Percep=0.7123
+Unique transactions: LEFT, LEST, NEST
+Epoch 1: Leven=0.7500, Best CTC = 24.7702, Percep=0.9322
+Unique transactions: LEFT, LEST, NEFT, NEST
+Epoch 2: Leven=0.7500, Best CTC = 24.7702, Percep=0.9322
+Unique transactions: LEFT, LEST, NEFT, NEST
+Epoch 3: Leven=0.7500, Best CTC = 27.8969, Percep=0.9748
+Unique transactions: LEFT, NEFT, NEST, NEXT
+Epoch 4: Leven=0.7500, Best CTC = 27.8969, Percep=0.9748
+Unique transactions: LEFT, NEFT, NEST, NEXT
+Epoch 5: Leven=0.7500, Best CTC = 27.8969, Percep=0.9748
+Unique transactions: LEFT, NEFT, NEST, NEXT
+Epoch 6: Leven=0.7500, Best CTC = 27.8969, Percep=0.9748
+Unique transactions: LEFT, LEST, NEFT, NEST, NEXT
+Epoch 7: Leven=0.7500, Best CTC = 27.8969, Percep=0.9748
+Unique transactions: EFT, LEFT, LEST, NEFT, NEST, NEXT, TEFT, TEST
+Epoch 8: Leven=0.7500, Best CTC = 25.0866, Percep=1.1516
+Unique transactions: EFT, LEFT, LEST, NEFT, NEST, NEXT, TEFT
+Epoch 9: Leven=0.7500, Best CTC = 25.0866, Percep=1.1516
+Unique transactions: EFT, LEFT, LEST, NEFT, NEST, NEXT
+Epoch 10: Leven=0.7500, Best CTC = 25.0866, Percep=1.1516
+Unique transactions: EFT, LEFT, LEST, NEFT, NEST, NEXT
+Epoch 11: Leven=0.7500, Best CTC = 25.0866, Percep=1.1516
+Unique transactions: EFT, LEFT, LEST, NEFT, NEST, NEXT, TES, TEST
+Epoch 12: Leven=0.6667, Best CTC = 23.3744, Percep=1.0104
+Unique transactions: LEFT, LEST, NEFT, NEST, NET, NEXT, TES, TEST
+Epoch 13: Leven=0.6667, Best CTC = 23.3744, Percep=1.0104
+Unique transactions: LEFT, NEFT, NEST, NET, NEXT, TES
+Epoch 14: Leven=0.6667, Best CTC = 23.3744, Percep=1.0104
+Unique transactions: LEFT, LEST, NEFT, NEST, NET, NEXT
+Epoch 15: Leven=0.6667, Best CTC = 17.7172, Percep=1.1420
+Unique transactions: LEFT, NEFT, NES, NEST, NET, NEXT, TES, TEST
+Epoch 16: Leven=0.6667, Best CTC = 21.8057, Percep=1.2708
+Unique transactions: LEFT, NEFT, NES, NEST, NET, NEXT, TES
+Epoch 17: Leven=0.6667, Best CTC = 21.8057, Percep=1.2708
+Unique transactions: LEFT, LEST, NEFT, NES, NEST, NET, NEXT, TES
+Epoch 18: Leven=0.6667, Best CTC = 21.8057, Percep=1.2708
+Unique transactions: LEFT, LES, LEST, NEFT, NES, NEST, NET, NEXT, TES, TESH
+Epoch 19: Leven=0.6667, Best CTC = 21.8057, Percep=1.2708
+Unique transactions: LEFT, LEST, NEFT, NES, NEST, NET, NEXT, TES, TEST
+Epoch 20: Leven=0.6667, Best CTC = 20.6145, Percep=1.2910
+Unique transactions: ESH, LEFT, LEST, NEFT, NES, NEST, NET, NEXT, TES
+Epoch 21: Leven=0.6667, Best CTC = 19.2929, Percep=1.3280
+Unique transactions: ES, LEFT, NES, NEST, NET, NEXT, TES, TEST
+Epoch 22: Leven=0.6667, Best CTC = 22.8005, Percep=1.3631
+Unique transactions: ES, LEST, NES, NEST, NET, NEXT, TES, TESH, TEST
+Epoch 23: Leven=0.6667, Best CTC = 22.8005, Percep=1.3631
+Unique transactions: ES, LEFT, LEST, NES, NEST, NET, NEXT, TES, TESH
+Epoch 24: Leven=0.6667, Best CTC = 18.7572, Percep=1.3767
+Unique transactions: ES, ESH, LEST, NES, NEST, NET, NEXT, TES, TESH
+Epoch 25: Leven=0.6667, Best CTC = 19.5145, Percep=1.3960
+Unique transactions: ES, NES, NESH, NEST, NEXT, TES, TESH, TEST
+Epoch 26: Leven=0.6667, Best CTC = 20.3627, Percep=1.3994
+Unique transactions: ES, ESH, LEFT, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 27: Leven=0.6667, Best CTC = 18.6448, Percep=1.4195
+Unique transactions: ES, LEST, NES, NESH, NEST, NEXT, TES
+Epoch 28: Leven=0.6667, Best CTC = 21.5915, Percep=1.4299
+Unique transactions: ES, ESH, NES, NEST, NEXT, TES
+Epoch 29: Leven=0.6667, Best CTC = 18.5825, Percep=1.4792
+Unique transactions: ES, ESH, LEST, NES, NESH, NEST, NEXT, TES
+Epoch 30: Leven=0.6667, Best CTC = 18.5790, Percep=1.4806
+Unique transactions: ES, ESH, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 31: Leven=0.6667, Best CTC = 20.9276, Percep=1.4840
+Unique transactions: ES, ESH, LEFT, LEST, NES, NESH, NEST, NEXT, TES, TESH, TEST
+Epoch 32: Leven=0.6667, Best CTC = 20.1445, Percep=1.5042
+Unique transactions: ES, ESH, LEFT, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 33: Leven=0.6667, Best CTC = 17.4687, Percep=1.5224
+Unique transactions: ES, ESH, LES, LEST, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 34: Leven=0.6667, Best CTC = 17.4687, Percep=1.5224
+Unique transactions: ES, ESH, LESH, LEST, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 35: Leven=0.6667, Best CTC = 18.3888, Percep=1.5491
+Unique transactions: ES, ESH, LES, NEH, NES, NESH, NEST, NEXT, RESH, TES
+Epoch 36: Leven=0.6667, Best CTC = 16.4046, Percep=1.5567
+Unique transactions: ES, ESH, LESH, LEST, NEH, NES, NESH, NEST, TES, TESH
+Epoch 37: Leven=0.6667, Best CTC = 19.8876, Percep=1.5983
+Unique transactions: ES, ESH, LESH, NEH, NES, NEST, TES, TESH
+Epoch 38: Leven=0.6667, Best CTC = 18.1401, Percep=1.6160
+Unique transactions: EH, ES, ESH, LEFT, NEH, NES, NESH, NEST, TES, TESH
+Epoch 39: Leven=0.6667, Best CTC = 15.5561, Percep=1.6553
+Unique transactions: ES, ESH, NECH, NEH, NES, NESH, NEST, TES, TESH
+Epoch 40: Leven=0.6667, Best CTC = 14.5981, Percep=1.6615
+Unique transactions: ES, ESH, NEH, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 41: Leven=0.6667, Best CTC = 14.5981, Percep=1.6615
+Unique transactions: ES, ESH, LEFT, NEH, NES, NESH, NEST, NEXT, RESH, TES
+Epoch 42: Leven=0.5000, Best CTC = 15.7516, Percep=1.7346
+Unique transactions: ES, ESH, NE, NECH, NEH, NES, NESH, NEST, TES, TESH
+Epoch 43: Leven=0.5000, Best CTC = 15.7516, Percep=1.7346
+Unique transactions: ES, ESH, NE, NECH, NEH, NES, NESH, NEST, NEXT, RESH, TES, TESH
+Epoch 44: Leven=0.5000, Best CTC = 15.7516, Percep=1.7346
+Unique transactions: EH, ES, ESH, LEST, NE, NECH, NEH, NES, NESH, NEST, NEXT, TES
+Epoch 45: Leven=0.5000, Best CTC = 15.7516, Percep=1.7346
+Unique transactions: ES, ESH, NE, NEH, NES, NESH, NEST, NEXT, TES, TESH
+Epoch 46: Leven=0.5000, Best CTC = 19.5869, Percep=1.7389
+Unique transactions: E, EH, ES, ESH, NE, NEC, NECH, NEH, NES, NESH, NEST, TEH, TES
+Epoch 47: Leven=0.5000, Best CTC = 19.8270, Percep=1.8337
+Unique transactions: EH, ES, NE, NEC, NECH, NEH, NES, NESH, NEST, TES, TESH
+Epoch 48: Leven=0.5000, Best CTC = 19.8270, Percep=1.8337
+Unique transactions: E, EH, ES, LEST, NE, NEC, NECH, NEH, NES, NESH, NEST, NEX, TER, TES
+Epoch 49: Leven=0.5000, Best CTC = 19.8911, Percep=1.8548
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NESH, NEST, NEX, NEXT, TE
+Epoch 50: Leven=0.5000, Best CTC = 19.8911, Percep=1.8548
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, TE, TESH
+Epoch 51: Leven=0.5000, Best CTC = 19.6682, Percep=1.8755
+Unique transactions: E, EH, ESH, NAC, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST, NET, TE, TES
+Epoch 52: Leven=0.5000, Best CTC = 15.7780, Percep=1.9710
+Unique transactions: EH, ES, ESH, NAC, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST, NET, TE, TES
+Epoch 53: Leven=0.5000, Best CTC = 15.7780, Percep=1.9710
+Unique transactions: E, EH, ES, NE, NEC, NECH, NECK, NEH, NES, NESH, TES
+Epoch 54: Leven=0.5000, Best CTC = 15.7780, Percep=1.9710
+Unique transactions: E, ES, ESH, NE, NEC, NECH, NECK, NEH, NES, NEST, TE, TEC, TES
+Epoch 55: Leven=0.5000, Best CTC = 15.7780, Percep=1.9710
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NESH, TE, TES
+Epoch 56: Leven=0.5000, Best CTC = 18.0991, Percep=1.9786
+Unique transactions: E, ES, ESH, NAC, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST, TEC, TES
+Epoch 57: Leven=0.5000, Best CTC = 18.6398, Percep=1.9907
+Unique transactions: ES, NE, NEC, NECH, NECK, NEH, NES, NESH, TE
+Epoch 58: Leven=0.5000, Best CTC = 17.9197, Percep=2.0419
+Unique transactions: E, EH, NE, NEC, NECH, NEH, NES, TE
+Epoch 59: Leven=0.5000, Best CTC = 17.9197, Percep=2.0419
+Unique transactions: E, EH, ES, NE, NEC, NECH, NECK, NEH, NES, NEST, TE, THE
+Epoch 60: Leven=0.5000, Best CTC = 20.3369, Percep=2.0640
+Unique transactions: NE, NEC, NECH, NECK, NES, NEST, TE, TES, THER
+Epoch 61: Leven=0.5000, Best CTC = 20.3369, Percep=2.0640
+Unique transactions: E, EH, ES, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST
+Epoch 62: Leven=0.5000, Best CTC = 16.5187, Percep=2.1017
+Unique transactions: E, ES, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST, NET, NEXT
+Epoch 63: Leven=0.5000, Best CTC = 16.2206, Percep=2.2076
+Unique transactions: EH, ES, NE, NEC, NECH, NECK, NES, NEST
+Epoch 64: Leven=0.5000, Best CTC = 16.2206, Percep=2.2076
+Unique transactions: E, EH, NE, NEC, NECH, NEH, NEST, NEXT, S, TE, TES
+Epoch 65: Leven=0.5000, Best CTC = 16.2206, Percep=2.2076
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NEXT, TE
+Epoch 66: Leven=0.5000, Best CTC = 16.2206, Percep=2.2076
+Unique transactions: E, EH, ES, NE, NEC, NECH, NEH, NES, NEST
+Epoch 67: Leven=0.5000, Best CTC = 18.8130, Percep=2.2125
+Unique transactions: E, EH, ES, NE, NEC, NECH, NEH, NES, NEST, TE
+Epoch 68: Leven=0.5000, Best CTC = 18.1569, Percep=2.2759
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NEST
+Epoch 69: Leven=0.5000, Best CTC = 18.1569, Percep=2.2759
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES
+Epoch 70: Leven=0.5000, Best CTC = 22.3522, Percep=2.2893
+Unique transactions: E, ESH, NE, NEC, NECH, NECK, NEH, NES, NEST, TES
+Epoch 71: Leven=0.5000, Best CTC = 18.5612, Percep=2.2970
+Unique transactions: E, EH, NE, NEC, NECH, NEH, NES, NESH, NEST, TES
+Epoch 72: Leven=0.5000, Best CTC = 18.2358, Percep=2.3326
+Unique transactions: E, ES, NE, NEC, NECH, NECK, NEH, NES, NESH, NEXT, TESH
+Epoch 73: Leven=0.5000, Best CTC = 19.2593, Percep=2.3382
+Unique transactions: E, ES, NE, NECH, NECK, NEH, NES, NESH, NEST, NEXT, TE
+Epoch 74: Leven=0.5000, Best CTC = 18.6808, Percep=2.3677
+Unique transactions: E, NE, NEC, NECH, NECK, NEH, NES, NESH, NEST, NET, TES
+Epoch 75: Leven=0.5000, Best CTC = 18.2947, Percep=2.4436
+Unique transactions: E, NE, NEC, NECH, NEH, NES, NESH, NEST, NEXT
+Epoch 76: Leven=0.5000, Best CTC = 18.2947, Percep=2.4436
+Unique transactions: E, EH, ES, ESH, NE, NEC, NECH, NES, NEST, NET, NEXT, TE, TES
+Epoch 77: Leven=0.5000, Best CTC = 17.6345, Percep=2.5135
+Unique transactions: E, ES, NE, NEC, NECH, NECT, NEH, NES, NESH, NEST, NEXT, TES
+Epoch 78: Leven=0.5000, Best CTC = 18.2160, Percep=2.5140
+Unique transactions: E, EH, NE, NECH, NECK, NEH, NES, NEST, TE, THER
+Epoch 79: Leven=0.5000, Best CTC = 15.7793, Percep=2.5145
+Unique transactions: E, EH, NE, NECH, NEH, NES, NESH, NEST, TE, TES
+Epoch 80: Leven=0.5000, Best CTC = 15.3472, Percep=2.5823
+Unique transactions: , E, ES, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, TE
+Epoch 81: Leven=0.5000, Best CTC = 17.6006, Percep=2.5862
+Unique transactions: , E, EH, ESH, NE, NECH, NECK, NEH, NES, NEST, NEXT
+Epoch 82: Leven=0.5000, Best CTC = 17.6006, Percep=2.5862
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT
+Epoch 83: Leven=0.5000, Best CTC = 17.6006, Percep=2.5862
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NES, NEST, TE
+Epoch 84: Leven=0.5000, Best CTC = 18.5438, Percep=2.6609
+Unique transactions: E, EH, ES, NE, NEC, NECH, NECK, NEH, NES, NEST, NET
+Epoch 85: Leven=0.5000, Best CTC = 17.1568, Percep=2.6972
+Unique transactions: E, ES, NE, NEC, NECH, NEH, NET, NEXT, TES
+Epoch 86: Leven=0.5000, Best CTC = 17.1568, Percep=2.6972
+Unique transactions: E, NE, NEC, NECH, NECK, NEH, NES, NEST, NET
+Epoch 87: Leven=0.5000, Best CTC = 21.7784, Percep=2.7090
+Unique transactions: MAY, ME, NA, NE, NEC, NECH, NECT, NEH, NESH, NEST, NET, TE
+Epoch 88: Leven=0.5000, Best CTC = 19.1640, Percep=2.7708
+Unique transactions: E, ES, NA, NE, NEC, NECH, NEH, NEST, NET, NEXT
+Epoch 89: Leven=0.5000, Best CTC = 16.7537, Percep=2.8491
+Unique transactions: E, NA, NE, NEC, NECH, NEH, NES, NEXT, TE, TER
+Epoch 90: Leven=0.5000, Best CTC = 16.7537, Percep=2.8491
+Unique transactions: E, NA, NE, NEC, NECH, NEH, NES, NEST, TE, TES, THER
+Epoch 91: Leven=0.5000, Best CTC = 15.5920, Percep=2.8966
+Unique transactions: E, ES, NA, NAY, NE, NEC, NECH, NEH, NES, NEST
+Epoch 92: Leven=0.5000, Best CTC = 15.5920, Percep=2.8966
+Unique transactions: E, ES, MAY, NA, NAY, NE, NEC, NECH, NECK, NES, NEST, NEXT, TE, TES, THER
+Epoch 93: Leven=0.5000, Best CTC = 21.0786, Percep=2.9399
+Unique transactions: E, ES, ME, NA, NE, NEC, NECH, NEH, NES, NEST, NET, TE, TES
+Epoch 94: Leven=0.5000, Best CTC = 21.0786, Percep=2.9399
+Unique transactions: E, MAY, NA, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, NEY, TE
+Epoch 95: Leven=0.5000, Best CTC = 16.8832, Percep=2.9859
+Unique transactions: E, ES, ME, NA, NAY, NE, NEC, NECH, NECK, NEH, NEST, NET, TER
+Epoch 96: Leven=0.5000, Best CTC = 17.1410, Percep=2.9860
+Unique transactions: ES, NA, NE, NEC, NECH, NEH, NES, NEXT, TE
+Epoch 97: Leven=0.5000, Best CTC = 19.5473, Percep=3.0295
+Unique transactions: E, ES, NA, NAY, NE, NEC, NEH, NES, NET, THER, THES
+Epoch 98: Leven=0.5000, Best CTC = 15.3686, Percep=3.1110
+Unique transactions: , E, ES, ESH, NA, NAY, NE, NEC, NECH, NECK, NES, NEST, NET, NEXT
+Epoch 99: Leven=0.5000, Best CTC = 15.3686, Percep=3.1110
+Unique transactions: E, NA, NAY, NE, NEC, NECH, NEH, NES, NET, NEXT
+Epoch 100: Leven=0.5000, Best CTC = 13.5257, Percep=3.1552
+Unique transactions: E, NE, NEC, NECH, NEH, NES, NEST, NET, S, TE
+Epoch 101: Leven=0.5000, Best CTC = 13.5257, Percep=3.1552
+Unique transactions: E, ES, NA, NE, NEC, NECH, NEH, NES, NET
+Epoch 102: Leven=0.5000, Best CTC = 17.8264, Percep=3.2390
+Unique transactions: E, ES, MAY, NA, NE, NEC, NECH, NEH, NES, NEST, NET, TE, TES, THER
+Epoch 103: Leven=0.5000, Best CTC = 17.8264, Percep=3.2390
+Unique transactions: E, ES, LET, NA, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, TE
+Epoch 104: Leven=0.5000, Best CTC = 16.4390, Percep=3.3250
+Unique transactions: NA, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, TE
+Epoch 105: Leven=0.5000, Best CTC = 16.4390, Percep=3.3250
+Unique transactions: E, ES, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, NEXT, TE, TES, TET
+Epoch 106: Leven=0.5000, Best CTC = 15.2484, Percep=3.3764
+Unique transactions: , E, ES, NA, NE, NEC, NECH, NEH, NES, NEST, NET, NEY, TE
+Epoch 107: Leven=0.5000, Best CTC = 13.8577, Percep=3.4450
+Unique transactions: E, MAKE, MAY, ME, NA, NAY, NE, NEC, NECK, NEH, NES, NET, NEXT, TE
+Epoch 108: Leven=0.5000, Best CTC = 13.2625, Percep=3.4585
+Unique transactions: E, EH, N, NA, NE, NEC, NECH, NECK, NECT, NEH, NET, NEXT, TE
+Epoch 109: Leven=0.5000, Best CTC = 13.7358, Percep=3.5269
+Unique transactions: E, ES, N, NA, NAY, NE, NEC, NECH, NEH, NES, NET, NEXT, TE, TES
+Epoch 110: Leven=0.5000, Best CTC = 13.7358, Percep=3.5269
+Unique transactions: E, N, NA, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, NEY, TESH
+Epoch 111: Leven=0.5000, Best CTC = 20.3402, Percep=3.5530
+Unique transactions: E, ES, LEFT, MAK, N, NA, NAY, NE, NEC, NECH, NES, NET, NEXT, NEY, TE
+Epoch 112: Leven=0.5000, Best CTC = 15.1955, Percep=3.6280
+Unique transactions: , E, LES, ME, N, NA, NE, NEC, NECH, NEH, NES, NET, NEXT
+Epoch 113: Leven=0.5000, Best CTC = 15.1955, Percep=3.6280
+Unique transactions: E, MAY, N, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NET, NEXT
+Epoch 114: Leven=0.5000, Best CTC = 21.8016, Percep=3.6808
+Unique transactions: , E, ES, N, NE, NEC, NECH, NECK, NECT, NES, NEXT, NS, THER
+Epoch 115: Leven=0.5000, Best CTC = 19.2807, Percep=3.8095
+Unique transactions: E, ES, N, NE, NEC, NECH, NECT, NEH, NES, NEST, NET, NS, TE
+Epoch 116: Leven=0.5000, Best CTC = 19.2807, Percep=3.8095
+Unique transactions: E, ES, N, NE, NEC, NECH, NECK, NEH, NES, NET, NEXT, NS, TE
+Epoch 117: Leven=0.5000, Best CTC = 22.9380, Percep=3.9482
+Unique transactions: , E, ES, N, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, NEXT, NS, TE
+Epoch 118: Leven=0.5000, Best CTC = 22.9380, Percep=3.9482
+Unique transactions: E, EH, N, NE, NEC, NECH, NECT, NEH, NEST, NET, NEXT, NEY, NS, TER, TES
+Epoch 119: Leven=0.5000, Best CTC = 14.7975, Percep=3.9685
+Unique transactions: , E, ES, MAY, N, NE, NEC, NECH, NEH, NEST, NET, NEXT, NEY, NS, THER
+Epoch 120: Leven=0.5000, Best CTC = 14.7975, Percep=3.9685
+Unique transactions: , E, LESH, MAY, MEC, N, NE, NEC, NECH, NEH, NESH, NEST, NET, NEXT, TE, TER, TES, THE
+Epoch 121: Leven=0.5000, Best CTC = 17.4712, Percep=4.0316
+Unique transactions: E, EH, LEFT, N, NAY, NE, NEC, NECH, NEH, NES, NET, NEXT, TE, TER
+Epoch 122: Leven=0.5000, Best CTC = 17.4712, Percep=4.0316
+Unique transactions: E, MAY, MES, N, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, NEXT, TE, TER, TES
+Epoch 123: Leven=0.5000, Best CTC = 17.4712, Percep=4.0316
+Unique transactions: E, ESH, MAY, ME, N, NAY, NE, NEC, NECH, NEH, NES, NESH, NEST, NET
+Epoch 124: Leven=0.5000, Best CTC = 21.1817, Percep=4.1065
+Unique transactions: E, NE, NEC, NECH, NECK, NEH, NES, NET, TES
+Epoch 125: Leven=0.5000, Best CTC = 17.2233, Percep=4.1738
+Unique transactions: E, ES, LEST, MAY, ME, N, NA, NE, NEC, NECH, NECK, NECT, NEH, NES, NET, TE, TES
+Epoch 126: Leven=0.5000, Best CTC = 17.2233, Percep=4.1738
+Unique transactions: , E, ES, MAY, ME, N, NA, NAY, NE, NEC, NECH, NECK, NES, NEST, NET, NEXT, NEY, TE, TEC, TES, THER
+Epoch 127: Leven=0.5000, Best CTC = 15.4942, Percep=4.2329
+Unique transactions: E, LESH, MAKE, ME, N, NA, NAY, NE, NEC, NECH, NEH, NES, NET, TE, TER, TES, TEY, THE, THER
+Epoch 128: Leven=0.5000, Best CTC = 22.7678, Percep=4.2949
+Unique transactions: E, ES, LES, N, NA, NAK, NAY, NE, NEC, NECH, NECK, NEH, NEXT, THER
+Epoch 129: Leven=0.5000, Best CTC = 16.9842, Percep=4.4033
+Unique transactions: E, ES, ESH, N, NA, NAC, NAK, NAY, NE, NEC, NECH, NECK, NEH, NES, NET, TE, TEC, TES
+Epoch 130: Leven=0.5000, Best CTC = 24.6008, Percep=4.4719
+Unique transactions: E, N, NA, NE, NEC, NECH, NECK, NECT, NEH, NES, NESH, NEST, TE
+Epoch 131: Leven=0.5000, Best CTC = 24.6008, Percep=4.4719
+Unique transactions: E, ME, N, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, NEXT, S, TE, TES
+Epoch 132: Leven=0.5000, Best CTC = 20.0718, Percep=4.5516
+Unique transactions: , E, EH, ES, MAK, MAY, ME, MEC, N, NA, NAK, NAY, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT
+Epoch 133: Leven=0.5000, Best CTC = 13.8679, Percep=4.5737
+Unique transactions: , E, ES, MAY, ME, N, NA, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, TE, THER, THES
+Epoch 134: Leven=0.5000, Best CTC = 13.8679, Percep=4.5737
+Unique transactions: , E, EH, ES, LEST, MAY, ME, N, NA, NE, NEC, NECH, NEH, NESH, NEST, NET, NEXT, TE, TES
+Epoch 135: Leven=0.5000, Best CTC = 13.8679, Percep=4.5737
+Unique transactions: E, ES, MAY, N, NA, NAK, NAY, NE, NEC, NECH, NECK, NEH, NES, NEST, NET, NEXT, NEY, TES
+Epoch 136: Leven=0.5000, Best CTC = 20.1848, Percep=4.5981
+Unique transactions: , E, ES, NA, NE, NEC, NECH, NEH, NES, NESH, NEST, NET, NEXT, NEY, TES, TET, THER
+Epoch 137: Leven=0.5000, Best CTC = 21.3432, Percep=4.6755
+Unique transactions: E, ES, MAKE, MAY, NA, NAY, NE, NEC, NECH, NECK, NECT, NEH, NES, NESH, NEST, NET, NEXT, THER
+Epoch 138: Leven=0.5000, Best CTC = 21.3432, Percep=4.6755
+Unique transactions: , E, EH, ME, MEK, NA, NAY, NE, NEC, NECH, NECT, NEH, NES, NET, NEXT, NEY, THE, THER, THERE
+Epoch 139: Leven=0.5000, Best CTC = 21.2402, Percep=4.7834
+Unique transactions: E, EH, ES, M, MA, NA, NE, NEC, NECH, NECK, NEH, NES, NET, NEXT, TER, TES, THER
+Epoch 140: Leven=0.5000, Best CTC = 15.3286, Percep=4.8448
+Unique transactions: E, ES, ESH, ME, NA, NE, NEC, NECH, NEH, NESH, NEST, NET, NEXT, TE, THES
+Epoch 141: Leven=0.5000, Best CTC = 15.3286, Percep=4.8448
+Unique transactions: E, ES, ESH, MAKE, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NET, NEXT, TE, THE, THER, THERE
+Epoch 142: Leven=0.5000, Best CTC = 15.3286, Percep=4.8448
+Unique transactions: , E, ES, MAY, ME, MEH, NA, NAY, NE, NEC, NEH, NEY, TEC, TEH, TET, THER
+Epoch 143: Leven=0.5000, Best CTC = 27.1313, Percep=4.8968
+Unique transactions: E, EH, MAK, MAY, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NET, NEXT, TE
+Epoch 144: Leven=0.5000, Best CTC = 25.1272, Percep=5.0340
+Unique transactions: E, EH, ES, NA, NAY, NE, NEC, NECH, NECK, NEH, NES, NESH, NEXT, NEY, TE, TEH, TES
+Epoch 145: Leven=0.5000, Best CTC = 25.1272, Percep=5.0340
+Unique transactions: , E, ES, MAY, MEY, NA, NE, NEC, NECH, NECK, NEH, TE, TES, THER
+Epoch 146: Leven=0.5000, Best CTC = 18.4029, Percep=5.1136
+Unique transactions: E, EH, NE, NEC, NECH, NEH, NES, NEST, TES, THE, THER
+Epoch 147: Leven=0.5000, Best CTC = 18.4029, Percep=5.1136
+Unique transactions: E, EH, ES, LES, N, NE, NEC, NECH, NECK, NEH, NEST, NET, NEY, TER, TES, THE
+Epoch 148: Leven=0.5000, Best CTC = 21.7647, Percep=5.1872
+Unique transactions: E, ME, N, NE, NEC, NECH, NES, NEST, NET, TE
+Epoch 149: Leven=0.5000, Best CTC = 21.7647, Percep=5.1872
+Unique transactions: E, ME, N, NE, NEC, NECH, NECK, NECT, NEH, NES, NET, NEXT, TE, TES
+Epoch 150: Leven=0.5000, Best CTC = 17.0357, Percep=5.2523
+Unique transactions: E, ME, N, NE, NEC, NECH, NECK, NEH, NES, NET, TE
+Epoch 151: Leven=0.5000, Best CTC = 23.3259, Percep=5.3897
+Unique transactions: , E, EH, MAY, N, NAY, NE, NEC, NECH, NECK, NEH, NEST, NET, NEXT, TE, TES, THEY
+Epoch 152: Leven=0.5000, Best CTC = 23.3259, Percep=5.3897
+Unique transactions: E, ME, MEH, N, NE, NEC, NECH, NEH, NES, NEST, S, TE, TES
+Epoch 153: Leven=0.5000, Best CTC = 19.2269, Percep=5.4747
+Unique transactions: , E, ES, MAY, ME, MEH, N, NE, NEC, NECH, NECK, NET, NEY
+Epoch 154: Leven=0.5000, Best CTC = 19.2269, Percep=5.4747
+Unique transactions: , E, ES, LEFT, N, NAK, NAY, NE, NEC, NECH, NECK, NEH, NES, NET, TE, THE, THES
+Epoch 155: Leven=0.5000, Best CTC = 19.2269, Percep=5.4747
+Unique transactions: E, EH, ESH, MA, ME, MEH, N, NAY, NE, NEC, NECH, NEH, THER
+Epoch 156: Leven=0.5000, Best CTC = 13.2293, Percep=5.5606
+Unique transactions: E, ESH, MAY, ME, NE, NEC, NECH, NEH, NES, NEST, NET, NEXT, TE, TES, TEY, THER, THEY
+Epoch 157: Leven=0.5000, Best CTC = 26.1969, Percep=5.6543
+Unique transactions: , E, ES, LEF, ME, NAY, NE, NEC, NECH, NECK, NEH, NES
+Epoch 158: Leven=0.5000, Best CTC = 16.0519, Percep=5.6703
+Unique transactions: , E, LEFT, MAY, NAY, NE, NEC, NECH, NEH, TE, TEC, THER, THES
+Epoch 159: Leven=0.5000, Best CTC = 16.0519, Percep=5.6703
+Unique transactions: , E, ME, NA, NAK, NE, NEC, NECH, NECK, NEH, NEXT, TE, TES
+Epoch 160: Leven=0.5000, Best CTC = 16.0519, Percep=5.6703
+Unique transactions: , E, MAY, MEC, NA, NAY, NE, NEC, NECH, NEH, NEK, NES, NEY, TE, THER
+Epoch 161: Leven=0.5000, Best CTC = 16.9669, Percep=5.7476
+Unique transactions: , E, ESH, MAK, MAY, ME, NA, NAY, NE, NEC, NECH, NEH, NES, NESH, TE, TES
+Epoch 162: Leven=0.5000, Best CTC = 27.6794, Percep=5.7827
+Unique transactions: , E, ES, MAY, ME, NA, NAY, NE, NEC, NECH, NEH, NES, NET, O, S, TE, TER, TES, TEY
+Epoch 163: Leven=0.0000, Best CTC = 25.3034, Percep=5.8272
+Unique transactions: E, ME, MEH, N, NA, NAY, NE, NEC, NECH, NECK, NES, NET, NEXT, NO, O, TE, TES
+WORD ACHIEVED AT EPOCH 163
+Perceptual loss before: 5.827216625213623
+Perceptual loss after: 5.827216625213623
